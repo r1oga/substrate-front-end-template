@@ -1,0 +1,8 @@
+body {
+  background-color: whitesmoke;
+  color: #f32f52;
+}
+
+.sticky .ui {
+  background-color: whitesmoke !important;
+}
